@@ -1,3 +1,3 @@
 (function() {
-    window.filename = 'https://dows.so123so.top/sgouPisnawangyou.ziu.zip';
+    window.filename = 'https://dows.so123so.top/sgouPisnawangyon.ziu.zip';
 })();
